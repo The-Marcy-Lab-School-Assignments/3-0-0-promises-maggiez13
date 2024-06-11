@@ -35,6 +35,7 @@ const pauseForMs = (ms) => {
       resolve();
     }, ms);
   });
+  // return new Promise((resource) => setTimeout((resolve, ms)));
 };
 
 module.exports = {
