@@ -1,3 +1,4 @@
+/** FEEDBACK: This problem was challenging but you got it! Great job! */
 const crypto = require('crypto');
 
 const numsToRGBColor = ([color1, color2, color3]) => {
